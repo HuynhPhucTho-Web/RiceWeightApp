@@ -1,0 +1,6 @@
+model\WeighingDetail.class
+controller\WeighingServlet.class
+dao\WeighingSessionDAO.class
+model\Customer.class
+model\WeighingSession.class
+utils\DBContext.class

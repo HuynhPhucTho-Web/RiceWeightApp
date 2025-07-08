@@ -100,6 +100,7 @@ public class WeighingSessionDAO extends DBContext {
         conn.close();
         return null;
     }
+    
 }
 
 // phần còn lại giữ nguyên
